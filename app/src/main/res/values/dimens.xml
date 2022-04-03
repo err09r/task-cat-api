@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tv_error_text_size">16sp</dimen>
+    <dimen name="progressbar_size">64dp</dimen>
+    <dimen name="item_cat_size">200dp</dimen>
+    <dimen name="item_cat_radius">0dp</dimen>
+    <dimen name="iv_dialog_height">430dp</dimen>
+    <dimen name="btn_save_margin">16dp</dimen>
+    <dimen name="dialog_width">320dp</dimen>
+    <dimen name="dialog_height">480dp</dimen>
+</resources>
